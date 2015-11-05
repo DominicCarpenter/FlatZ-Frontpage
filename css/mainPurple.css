@@ -423,10 +423,10 @@ textarea {
 /**********Clock Configuration**********/   
 
 digiclock {
-	font-size: 30px;
+	font-size: 25px;
 	color: #fff;
 	text-align: center;
-	line-height: 60px;
+	line-height: 30px;
 	margin-left: auto	
 }
 
